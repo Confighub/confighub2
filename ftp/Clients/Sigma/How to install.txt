@@ -1,0 +1,6 @@
+Note: This is Sigma 4.14
+
+1. Open %appdata%\.minecraft\versions
+2. Put this current folder in (where Sigma.jar and Sigma.json 
+3. Create a profile in your minecraft launcher with the version "Sigma" (if it doesnt appear restart the launcher)
+4. Done

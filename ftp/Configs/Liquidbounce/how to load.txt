@@ -1,0 +1,7 @@
+How to load
+
+1. Go into your minecraft folder (Default is %appdata%/.minecraft)
+2. Go into Liquidbounce-1.8 -> Settings
+3. Put the file into there
+
+In game you must do .localconfig load (file name)

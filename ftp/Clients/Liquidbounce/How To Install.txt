@@ -1,0 +1,7 @@
+How to install Liquidbounce:
+
+1. Go to your Minecraft folder (default %appdata%\.minecraft)
+2. Open/Create mods folder
+3. Put Liquidbounce inside
+
+(You will need forge for it.)
